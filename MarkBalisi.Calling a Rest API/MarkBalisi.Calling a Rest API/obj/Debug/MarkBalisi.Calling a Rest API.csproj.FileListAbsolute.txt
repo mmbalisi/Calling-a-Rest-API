@@ -1,0 +1,20 @@
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\bin\Debug\MarkBalisi.Calling a Rest API.exe.config
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\bin\Debug\MarkBalisi.Calling a Rest API.exe
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\bin\Debug\MarkBalisi.Calling a Rest API.pdb
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\bin\Debug\RestSharp.dll
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\bin\Debug\RestSharp.xml
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MarkBalisi.Calling a Rest API.csprojAssemblyReference.cache
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MainWindow.g.cs
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\App.g.cs
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MarkBalisi.Calling a Rest API_MarkupCompile.cache
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MarkBalisi.Calling a Rest API_MarkupCompile.lref
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MainWindow.baml
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MarkBalisi.Calling a Rest API.g.resources
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MarkBalisi.Calling_a_Rest_API.Properties.Resources.resources
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MarkBalisi.Calling a Rest API.csproj.GenerateResource.cache
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MarkBalisi.Calling a Rest API.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MarkBalisi.Calling a Rest API.csproj.CopyComplete
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MarkBalisi.Calling a Rest API.exe
+C:\Users\hp\Documents\Major Activity\Ativity 5\MarkBalisi.Calling a Rest API\MarkBalisi.Calling a Rest API\obj\Debug\MarkBalisi.Calling a Rest API.pdb
